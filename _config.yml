@@ -2,10 +2,10 @@
 title: Misaki1984
 description: Imagination can change everything.
 url: https://misaki1984.github.io
-avatar: /avatar.jpeg
+avatar: /azusa.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /background.jpeg
 remote_theme: misaki1984/misaki1984.github.io
 
 # Gems
@@ -35,7 +35,7 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Misaki1984
   links:
     - https://twitter.com/1017495653Azusa
     - https://github.com/Misaki1984
