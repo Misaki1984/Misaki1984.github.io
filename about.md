@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+**Misaki1984** 
+Chinese, 25, Familiar with Java technology and a bit of a front-end.
+I like anime and music(rock & acg).
+ So I can speak a little Japanese, and a little basic guitar.
+[See my bilibili](https://www.bilibili.com/video/BV13L4y1M7HJ/)
