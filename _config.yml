@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Misaki1984
+description: Imagination can change everything.
 url: https://misaki1984.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -31,14 +31,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: Misaki1984
   card: summary
 logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/1017495653Azusa
+    - https://github.com/Misaki1984
 google_site_verification: xxxxx
 lang: en
 
@@ -56,6 +56,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Misaki1984
+  url: https://github.com/misaki1984
+  email: 1017495653@qq.com
