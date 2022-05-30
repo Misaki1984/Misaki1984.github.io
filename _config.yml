@@ -16,17 +16,17 @@
 lang: en-US
 title: Misaki1984 Site
 email:
-description: Hello, I'm Misaki1984
+description: "Hello, I'm Misaki1984"
 baseurl: "/blog"
-repository: "Misaki1984/Misaki1984.github.io"
+remote_theme: Misaki1984/Misaki1984.github.io
 github_url: "https://github.com/Misaki1984"
 url: "https://Misaki1984.github.io"
 author:
-  name: Misaki1984
+  name: "Misaki1984"
   twitter: 
   picture:
 twitter_username:
-github_username: Misaki1984
+github_username: "Misaki1984"
 logo: "/assets/images/logo.png"
 search: true
 search_full_content: true
