@@ -6,9 +6,11 @@ avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
+remote_theme: misaki1984/misaki1984.github.io
 
 # Gems
 plugins:
+  - jekyll-remote-theme
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
