@@ -14,20 +14,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
+title: Misaki1984 Site
 email:
-description:
-baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description: Hello, I'm Misaki1984
+baseurl: "/blog"
+repository: "Misaki1984/Misaki1984.github.io"
+github_url: "https://github.com/Misaki1984"
+url: "https://Misaki1984.github.io"
 author:
-  name:
-  twitter:
+  name: Misaki1984
+  twitter: 
   picture:
 twitter_username:
-github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
-search_full_content: false # true, false (default)
+github_username: Misaki1984
+logo: "/assets/images/logo.png"
+search: true
+search_full_content: true
 search_provider: # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
