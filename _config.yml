@@ -8,6 +8,11 @@ permalink: pretty
 cover_image: /bk.jpeg
 remote_theme: misaki1984/misaki1984.github.io
 
+markdown: kramdown
+kmarkdown:
+  input: GFM
+
+
 # Gems
 plugins:
   - jekyll-remote-theme
